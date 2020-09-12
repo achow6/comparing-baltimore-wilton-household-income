@@ -6,7 +6,7 @@ This project serves to compare two cities, Baltimore, MD, and my hometown, Wilto
 Which city encourages more social mobility?
 
 # Data Sources
-**Opportunity Insights**: this is a research group that identifies and attempts to dissolve barriers to social mobility to help those living in poverty. The team developed Opportunity Atlas (https://www.opportunityatlas.org/), which uses childhood to mid-30's data from 20 million people to rate areas based on their social mobility.
+**Opportunity Insights**: this is a research group that identifies and attempts to dissolve barriers to social mobility to help those living in poverty. The team developed [Opportunity Atlas](https://www.opportunityatlas.org), which uses childhood to mid-30's data from 20 million people to rate areas based on their social mobility.
 This publically accessible data was used in this data.
 1. Data showing household income in Baltimore, MD and Wilton, CT (data Baltimore - general & data Wilton - general)
 2. Data showing household income given parents' income is in the top 25% (data Baltimore - high & data Wilton - high)
