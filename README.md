@@ -16,10 +16,10 @@ This publically accessible data was used in this data.
 Once the original data was downloaded, the location column (containing neighborhood, city, and state) was split into three separate columns for each (neighborhood, city, state). Cities outside of the scope were then filtered out. The VLOOKUP tool was then used to combine the datasets based on their "tract" number. The datasets from both cities were also combined to create a more cohesive analysis. This was simple because the two cities' datasets shared the same column names and units of measurement. The data were analyzed through pivot charts and tables for numeric and visual results.
 
 # Data Answer
-*insert visual 1*
+![alt text](https://github.com/achow6/comparing-baltimore-wilton-household-income/blob/master/Picture1.png)
 Here we can see a large difference between overall average income in both cities. There is a $48,440 difference in average household income.
 
-*insert visual 2*
+![alt text](https://github.com/achow6/comparing-baltimore-wilton-household-income/blob/master/Picture2.png)
 Here we see that the large difference between average income persists even when looking at children that came from high income and low income families. It should be noted however, in both cities, average household income is lower for those that came from low income families compared to high income ones. It is also interesting to see that average income of a child from a high income Baltimore family exceeds the overall household income average in Baltimore.
 
 These numerical findings show that Wilton, CT encourages more social mobility than Baltimore, MD. To further explore the difference in income, data on type/length of employment and education level might be helpful.
