@@ -7,13 +7,13 @@ Which city encourages more social mobility?
 
 # Data Sources
 **Opportunity Insights**: this is a research group that identifies and attempts to dissolve barriers to social mobility to help those living in poverty. The team developed [Opportunity Atlas](https://www.opportunityatlas.org), which uses childhood to mid-30's data from 20 million people to rate areas based on their social mobility.
-This publically accessible data was used in this data.
+This publically accessible data was used in this analysis.
 1. Data showing household income in Baltimore, MD and Wilton, CT (data Baltimore - general & data Wilton - general)
 2. Data showing household income given parents' income is in the top 25% (data Baltimore - high & data Wilton - high)
 3. Data showing household income given parents' income is in the bottom 25% (data Baltimore - low & data Wilton - low)
 
 # Data Analysis
-Once the original data was downloaded, the location column (containing neighborhood, city, and state) was split into three separate columns for each (neighborhood, city, state). Cities outside of the scope were then filtered out. The VLOOKUP tool was then used to combine the datasets based on their "tract" number. The datasets from both cities were also combined to create a more cohesive analysis. This was simple because the two cities' datasets shared the same column names and units of measurement. The data were analyzed through pivot charts and tables for numeric and visual results.
+Once the original data was downloaded, the location column (containing neighborhood, city, and state) was split into three separate columns for each (neighborhood, city, state). Cities outside of the scope were then filtered out. The VLOOKUP tool was then used to combine the datasets based on their "tract" number. The datasets from both cities were also combined to create a more cohesive analysis (both datasets shared the same column names and units of measurement). The data were analyzed through pivot charts and tables for numeric and visual results.
 
 # Data Answer
 ![alt text](https://github.com/achow6/comparing-baltimore-wilton-household-income/blob/master/Picture1.png)
