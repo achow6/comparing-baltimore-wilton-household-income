@@ -1,6 +1,6 @@
 # Comparing Household Income in Baltimore, MD and Wilton, CT
 
-This project serves to compare two cities, Baltimore, MD, and my hometown, Wilton, CT. Although these areas are only about a 5 hour drive apart, having lived in both places for some time, I noticed that they are incredibly different. Household income is explored in this project as a possible difference between these two areas.
+This project serves to compare two cities, Baltimore, MD, and my hometown, Wilton, CT. Although these areas are only about a 5 hour drive apart, having lived in both places for some time, I noticed that they are incredibly different. Household income and parents' socioeconomic status is explored in this project as a possible difference between these two areas.
 
 # Business Question
 Which city encourages more social mobility? How could SES affect this?
