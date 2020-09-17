@@ -3,7 +3,7 @@
 This project serves to compare two cities, Baltimore, MD, and my hometown, Wilton, CT. Although these areas are only about a 5 hour drive apart, having lived in both places for some time, I noticed that they are incredibly different. Household income is explored in this project as a possible difference between these two areas.
 
 # Business Question
-Which city encourages more social mobility?
+Which city encourages more social mobility? How could SES affect this?
 
 # Data Sources
 **Opportunity Insights**: this is a research group that identifies and attempts to dissolve barriers to social mobility to help those living in poverty. The team developed [Opportunity Atlas](https://www.opportunityatlas.org), which uses childhood to mid-30's data from 20 million people to rate areas based on their social mobility.
